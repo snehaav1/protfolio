@@ -10,7 +10,7 @@
 
 ## 🔬 About Me
 
-I'm currently pursuing a B.S. in Data Science at the University of the Incarnate Word, with a previous degree in Biology. My interdisciplinary background allows me to merge statistical rigor with scientific thinking. I enjoy working on projects where I can turn raw data into actionable solutions—whether in healthcare, retail, or finance.
+I'm currently have a B.S. in Data Science at the University of the Incarnate Word, with a previous degree in B.S in Biology. My interdisciplinary background allows me to merge statistical rigor with scientific thinking. I enjoy working on projects where I can turn raw data into actionable solutions—whether in healthcare, retail, or finance.
 
 ---
 
