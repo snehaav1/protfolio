@@ -28,17 +28,6 @@ Scraped product info (names, prices, ratings) from Walmart’s website to unders
 ### 🔹 [Sentiment Analysis Using Random Forest](https://colab.research.google.com/drive/14UmQYexKSpuq6zS4QELL1H5VkoIIbY_i?authuser=1#scrollTo=iW-sXxL7MmTr)
 Built a sentiment classifier that performed well on positive and mixed inputs. Identified limitations due to class imbalance on negative data.
 
-### 🔹 **Capstone: Diabetes Prediction**
-Built an ML pipeline using deep learning and ensemble models (Random Forest, SVM, Gradient Boosting) to detect diabetes early. Focused on data preprocessing, hyperparameter tuning, and feature selection.
-
-### 🔹 **Sales Forecasting**
-Applied ARIMA, Prophet, and LSTM models to predict retail sales trends. Presented insights through a Power BI dashboard.
-
-### 🔹 **Credit Risk Assessment**
-Developed models (Logistic Regression, XGBoost) to classify loan applicants by risk levels. Visualized credit risk using Power BI.
-
-### 🔹 **Customer Segmentation**
-Used K-Means clustering to segment customers based on behavior for targeted marketing strategies.
 
 ### 🔹 [World Happiness Report Analysis](https://docs.google.com/document/d/1-J_xnxMHGh1_PsAM9GVr3CICZ_6dEU4AufzHq1MEyNQ/edit?tab=t.0)
 Analyzed global happiness scores using indicators like GDP, life expectancy, and social support.
