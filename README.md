@@ -19,7 +19,7 @@ I'm currently pursuing a B.S. in Data Science at the University of the Incarnate
 ### 🔹 [911 Calls Capstone Project](https://colab.research.google.com/drive/1aw7J8AyDZtbwq5RinIdjkESOafG_KF4G?authuser=1#scrollTo=CT7DkjeU5FIY)
 Analyzed emergency call data for trends in time, location, and call type. Visualized patterns to identify public safety needs across different regions.
 
-### 🔹 [Healthcare Analyst Projects](https://colab.research.google.com/drive/1vgIjjwlRLvXfLBfIqnUbjfIaOSd7SCa1?authuser=1#scrollTo=GdzYAksFCIze)
+### 🔹 [Healthcare Analyst Project](https://colab.research.google.com/drive/1vgIjjwlRLvXfLBfIqnUbjfIaOSd7SCa1?authuser=1#scrollTo=GdzYAksFCIze)
 Explored datasets on patient outcomes, costs, and hospital efficiency to drive healthcare insights.
 
 ### 🔹 [Walmart Web Scraping Project](https://colab.research.google.com/drive/1apf6zj8vqd_eRB5C8q-weR4s9PUV7p85?authuser=1)
